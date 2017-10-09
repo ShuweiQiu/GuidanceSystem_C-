@@ -1,2 +1,1 @@
-# GuidanceSystem_C-
-GraspingGuidanceSys_codedinC++
+# GuidanceSystem_C++
